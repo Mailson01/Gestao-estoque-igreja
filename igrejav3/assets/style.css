@@ -1,0 +1,87 @@
+/*------------------------TELA DE LOGINN--------------------------------*/
+/* Estilo global */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Corpo */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color:lightslategray;
+}
+
+/* Estilo do formulário */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 300px;
+}
+
+/* Estilo da imagem */
+.login-logo {
+    width: 80px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+/* Espaçamento entre elementos */
+form label, form input, form button {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+/* Estilo dos campos de entrada */
+input[type="text"], input[type="password"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Estilo do botão */
+.button {
+    padding: 10px;
+    background-color: #af4c4c;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #a05045;
+}
+
+
+
+
+
+
+
+/*------------------------TELA DE CADASTRO CLIENTES--------------------------------*/
+/* Reset de margin e padding */
+/* Resetando margens, padding e box-sizing */
+/* Resetando margens, padding e box-sizing */
+
+
+
+/*-------------------------CADASTRO DE EMPRESTIMOS---------------------------------*/
+
+
+/*-----------------------CADASTRO DE USUÁRIO-------------------------------*/
+
+
+
+/*--------------------------editar CLIENTES--------------------------*/
